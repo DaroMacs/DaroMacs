@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web3 projects<br>👯 I’m looking to collaborate on web3 projects<br>🤝 I’m looking for help with web3 projects<br>🌱 I’m currently learning web3 projects
+🔭 I’m currently working on web3 projects<br>👯 I’m looking to collaborate on a web3 company<br>🤝 I’m looking for help with web3 projects<br>🌱 I’m currently learning web3 projects
 
 
 ## 🌐 Socials:
