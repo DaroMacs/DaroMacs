@@ -1,5 +1,6 @@
 # About Me:
-🔭 Currently working on web3 projects<br>🤝 Looking to collaborate on web3 projects<br>🌱 Learning web3 smart contracts hacking
+🔭 Currently working on web3 projects<br>🤝 Looking to collaborate on web2/web3 projects<br>🌱 
+Into smart contracts hacking
 
 
 ## 🌐 Socials:
